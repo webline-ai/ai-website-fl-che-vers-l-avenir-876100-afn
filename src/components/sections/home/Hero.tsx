@@ -17,7 +17,7 @@ const DEFAULT_HERO = {
   secondaryCtaText: 'Planifier un échange',
   secondaryCtaHref: '/contact',
   heroImageUrl:
-    'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=1926&auto=format&fit=crop',
+    'https://pub-60de11c8c43b49ea9bd786eb6273aa91.r2.dev/5b493d761f7cb482afa88b1a51f1311a.png',
   heroImageAlt: "Équipe de consultants travaillant sur une stratégie d'entreprise",
   trustBadge: "15+ ans d'expertise",
   highlights: ["Stratégie d'innovation", 'Transformation digitale', 'Excellence opérationnelle'],
